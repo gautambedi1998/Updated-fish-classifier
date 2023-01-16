@@ -1,0 +1,15 @@
+C:\Users\Mustafa\source\repos\FishClassifier\FishClassifier\obj\Debug\FishClassifier.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\FishClassifier\FishClassifier\obj\Debug\FishClassifier.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\FishClassifier\FishClassifier\bin\Debug\FishClassifier.exe.config
+C:\Users\Mustafa\source\repos\FishClassifier\FishClassifier\bin\Debug\FishClassifier.exe
+C:\Users\Mustafa\source\repos\FishClassifier\FishClassifier\bin\Debug\FishClassifier.pdb
+C:\Users\Mustafa\source\repos\FishClassifier\FishClassifier\obj\Debug\FishClassifier.exe
+C:\Users\Mustafa\source\repos\FishClassifier\FishClassifier\obj\Debug\FishClassifier.pdb
+C:\Users\gauta\Desktop\Updated code\FishClassifier\FishClassifier\bin\Debug\FishClassifier.exe.config
+C:\Users\gauta\Desktop\Updated code\FishClassifier\FishClassifier\bin\Debug\FishClassifier.exe
+C:\Users\gauta\Desktop\Updated code\FishClassifier\FishClassifier\bin\Debug\FishClassifier.pdb
+C:\Users\gauta\Desktop\Updated code\FishClassifier\FishClassifier\obj\Debug\FishClassifier.csproj.AssemblyReference.cache
+C:\Users\gauta\Desktop\Updated code\FishClassifier\FishClassifier\obj\Debug\FishClassifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\gauta\Desktop\Updated code\FishClassifier\FishClassifier\obj\Debug\FishClassifier.csproj.CoreCompileInputs.cache
+C:\Users\gauta\Desktop\Updated code\FishClassifier\FishClassifier\obj\Debug\FishClassifier.exe
+C:\Users\gauta\Desktop\Updated code\FishClassifier\FishClassifier\obj\Debug\FishClassifier.pdb
